@@ -1,4 +1,4 @@
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=taylorsieling&hide=contribs,prs&count_private=true&show_icons=true&theme=calm)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=taylorsieling&count_private=true&show_icons=true&theme=calm)
 
 
 ### Hey, I'm Taylor! 👋
