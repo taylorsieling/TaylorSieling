@@ -37,6 +37,6 @@ I am a full-stack software developer with a background in event planning and pro
   - I foster neonatal and young kittens for my local Human Society. 
   - I am extremely passionate about animal welfare and enjoy turning my "cat lady-ness" into activism.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorsieling&layout=compact)](https://github.com/taylorsieling/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorsieling&layout=compact&theme=calm)](https://github.com/taylorsieling/github-readme-stats)
 
 
