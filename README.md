@@ -16,6 +16,8 @@ I am a full-stack software developer with a background in event planning and pro
   - Wordpress Development
   - React Hooks
 
+  [Check out my practice log!](https://github.com/taylorsieling/CurrentlyWorkingOn)
+
 - 👀 I am also interested in ...
   - Accessible Web Development
   - Learning New Programming Languages 
