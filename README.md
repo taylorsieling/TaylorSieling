@@ -1,16 +1,40 @@
-### Hi there 👋
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=taylorsieling&hide=contribs,prs&count_private=true&show_icons=true&theme=calm)
 
-<!--
-**taylorsieling/TaylorSieling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hey, I'm Taylor! 👋
+
+I am a full-stack software developer with a background in event planning and program management. 
 
 - 🔭 I’m currently working on ...
+
+  - Forever Foster: A complete rehaul of my Knittin' Kitten Foster application to implement more features and styling
+  - Multiple Wordpress Themes
+  - Resume portfolio sites for friends and family
+
 - 🌱 I’m currently learning ...
+  - PHP
+  - Wordpress Development
+  - React Hooks
+
+- 👀 I am also interested in ...
+  - Accessible Web Development
+  - Learning New Programming Languages 
+  - Illustration & Graphic Design
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  - Anything with front-end development! If your looking for a coding buddy, please reach out!
+
 - 📫 How to reach me: ...
+  - [taylorasieling@gmail.com](mailto:taylorasieling@gmail.com)
+  - [taylorsieling.dev](https://taylorsieling.dev)
+  - [LinkedIn](https://www.linkedin.com/in/taylorasieling/)
+  - [Twitter](https://twitter.com/sielcode)
+
 - 😄 Pronouns: ...
+  - she/her/hers
+
 - ⚡ Fun fact: ...
--->
+  - I foster neonatal and young kittens for my local Human Society. 
+  - I am extremely passionate about animal welfare and enjoy turning my "cat lady-ness" into activism.
+
+
