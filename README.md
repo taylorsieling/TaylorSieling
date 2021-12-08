@@ -5,15 +5,15 @@
 
 I am a full-stack software developer with a background in event planning and program management. 
 
-- 🔭 I’m currently working on ...
+- 👩🏽‍💻 I currently work at ...
+  - [GiveGab](https://www.givegab.com/) as a Full-Stack Developer
 
-  - Forever Foster: A complete rehaul of my Knittin' Kitten Foster application to implement more features and styling
-  - Multiple Wordpress Themes
-  - Resume portfolio sites for friends and family
+- 🔭 I’m currently working on ...
+  - Forever Foster: A online application to help animal foster parents save more lives.
 
 - 🌱 I’m currently learning ...
-  - PHP
-  - Wordpress Development
+  - Vue.js
+  - Slim 
   - React Hooks
 
   [Check out my practice log!](https://github.com/taylorsieling/CurrentlyWorkingOn)
